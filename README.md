@@ -10,6 +10,4 @@ A Python script to organize your messy folders by automatically sorting files in
 
 ## How to Use
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/file-organizer.git
+python file_organizer.py
